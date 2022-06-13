@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   <a href="https://github.com/BrayanOB2003">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrayanOB2003&show_icons=false&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrayanOB2003&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanOB2003&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 <div align="center" style="display: inline_block"><br>
