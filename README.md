@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   <a href="https://github.com/BrayanOB2003">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrayanOB2003&show_icons=true&theme=gruvbox&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanOB2003&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrayanOB2003&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanOB2003&layout=compact&langs_count=5&theme=gruvbox"/>
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="BO-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
